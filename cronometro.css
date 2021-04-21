@@ -1,0 +1,36 @@
+.topo{
+    background: rgb(10, 9, 9);
+    padding: 40px;
+
+}
+body{
+    background: rgb(233, 233, 233);
+}
+.bt {
+    border:1px solid #25692A;
+    border-radius:4px;
+    display:inline-block;
+    cursor:pointer;
+    font-family:Verdana;
+    font-weight:bold;
+    font-size:13px;
+    padding:6px 10px;
+    text-decoration:none;
+    background: grey;
+    } 
+    
+   
+.conteudo{
+    background: rgb(236, 236, 236);
+    margin: 0px 300px;
+    padding: 350px;
+
+}
+
+.rodape{
+    background-color: rgb(21, 62, 63);
+}
+#imgsrandon{
+    margin: 0px -193px;
+  
+}
